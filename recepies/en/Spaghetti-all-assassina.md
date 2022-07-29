@@ -14,7 +14,7 @@ Source: [Adam Ragusea](https://youtu.be/X8B5ZtKIlWY)
 - fresh basil for garnish
 - salt
 
-### pickled chili garnish (optional)
+### Pickled chili garnish (optional)
 - A couple serrano chilies (or any small, mild chili)
 - sugar
 - salt
