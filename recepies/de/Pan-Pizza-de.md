@@ -1,5 +1,5 @@
 # Pan Pizza
-Source: [Adam Ragusea](https://youtu.be/9TjUWnAK0cg)
+Quelle: [Adam Ragusea](https://youtu.be/9TjUWnAK0cg)
 
 ![Pan Pizza](../../images/pan-pizza-thumbnail.jpg)
 
