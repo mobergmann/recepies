@@ -1,10 +1,10 @@
 # Pan Pizza
 Source: [Adam Ragusea](https://youtu.be/9TjUWnAK0cg)
 
-![Pan Pizza](../../images/pan-pizza-thumbnail.jpg)
+![Pan Pizza](../../images/pan-pizza/thumbnail.jpg)
 
 ## Ingredients
-**RECIPE, MAKES ONE 10-INCH PIZZA**
+**MAKES ONE 10-INCH PIZZA**
 
 ### Dough
 - `1 cup (120g)` bread flour + more for kneading (all-purpose is fine instead)
